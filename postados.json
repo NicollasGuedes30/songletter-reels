@@ -47,5 +47,32 @@
     "n": 2,
     "data": "2026-10-17",
     "metricoolId": 393724873
+  },
+  {
+    "trend": "quando-se-ve",
+    "variante": 1,
+    "data": "2026-10-14",
+    "hora": "17:00",
+    "tipo": "reel-trend",
+    "arquivo": "videos/trend-quando-se-ve-v1.mp4",
+    "metricoolId": 394050465
+  },
+  {
+    "trend": "quando-se-ve",
+    "variante": 2,
+    "data": "2026-10-16",
+    "hora": "17:00",
+    "tipo": "reel-trend",
+    "arquivo": "videos/trend-quando-se-ve-v2.mp4",
+    "metricoolId": 394050512
+  },
+  {
+    "trend": "quando-se-ve",
+    "variante": 3,
+    "data": "2026-10-18",
+    "hora": "17:00",
+    "tipo": "reel-trend",
+    "arquivo": "videos/trend-quando-se-ve-v3.mp4",
+    "metricoolId": 394050561
   }
 ]
