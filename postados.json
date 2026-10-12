@@ -92,5 +92,14 @@
     "hora": "18:00",
     "arquivo": "imagens/2026-10-12-story-criancas/01.jpg",
     "metricoolId": 394160327
+  },
+  {
+    "tipo": "reel-criancas",
+    "slug": "bb8dxmc8",
+    "para": "Alice",
+    "data": "2026-10-12",
+    "hora": "19:00",
+    "arquivo": "videos/2026-10-12-criancas-bb8dxmc8.mp4",
+    "metricoolId": 394238623
   }
 ]
