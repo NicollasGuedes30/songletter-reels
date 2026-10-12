@@ -1,3 +1,27 @@
 [
-  {"slug": "t35kn3x6", "data": "2026-10-11", "para": "Samara", "tipo": "reel-carta", "metricoolId": 393635285}
+  {
+    "slug": "t35kn3x6",
+    "data": "2026-10-11",
+    "para": "Samara",
+    "tipo": "reel-carta",
+    "metricoolId": 393635285
+  },
+  {
+    "tipo": "story-verso",
+    "slug": "t35kn3x6",
+    "data": "2026-10-12",
+    "metricoolId": 393716183
+  },
+  {
+    "tipo": "carrossel-pauta",
+    "pauta": 0,
+    "data": "2026-10-12",
+    "metricoolId": 393716219
+  },
+  {
+    "tipo": "story-chamada",
+    "n": 0,
+    "data": "2026-10-12",
+    "metricoolId": 393716236
+  }
 ]
