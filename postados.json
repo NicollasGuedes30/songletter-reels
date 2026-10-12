@@ -84,5 +84,13 @@
     "tipo": "reel-trend",
     "arquivo": "videos/trend-quando-se-ve-luto.mp4",
     "metricoolId": 394094120
+  },
+  {
+    "tipo": "story-criancas",
+    "slug": "bb8dxmc8",
+    "data": "2026-10-12",
+    "hora": "18:00",
+    "arquivo": "imagens/2026-10-12-story-criancas/01.jpg",
+    "metricoolId": 394160327
   }
 ]
