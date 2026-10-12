@@ -27,14 +27,14 @@
   {
     "tipo": "reel-quiz",
     "arquivo": "evergreen-quiz",
-    "data": "2026-10-12",
-    "metricoolId": 393724776
+    "data": "2026-10-14",
+    "metricoolId": 394094047
   },
   {
     "tipo": "reel-print",
     "n": 0,
-    "data": "2026-10-13",
-    "metricoolId": 393724813
+    "data": "2026-10-19",
+    "metricoolId": 394093940
   },
   {
     "tipo": "reel-print",
@@ -51,11 +51,11 @@
   {
     "trend": "quando-se-ve",
     "variante": 1,
-    "data": "2026-10-14",
+    "data": "2026-10-13",
     "hora": "17:00",
     "tipo": "reel-trend",
     "arquivo": "videos/trend-quando-se-ve-v1.mp4",
-    "metricoolId": 394050465
+    "metricoolId": 394094002
   },
   {
     "trend": "quando-se-ve",
@@ -74,5 +74,15 @@
     "tipo": "reel-trend",
     "arquivo": "videos/trend-quando-se-ve-v3.mp4",
     "metricoolId": 394050561
+  },
+  {
+    "trend": "quando-se-ve",
+    "variante": "luto",
+    "slug": "9xxs3npk",
+    "data": "2026-10-12",
+    "hora": "17:00",
+    "tipo": "reel-trend",
+    "arquivo": "videos/trend-quando-se-ve-luto.mp4",
+    "metricoolId": 394094120
   }
 ]
