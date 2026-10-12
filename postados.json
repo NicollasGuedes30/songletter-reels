@@ -23,5 +23,29 @@
     "n": 0,
     "data": "2026-10-12",
     "metricoolId": 393716236
+  },
+  {
+    "tipo": "reel-quiz",
+    "arquivo": "evergreen-quiz",
+    "data": "2026-10-12",
+    "metricoolId": 393724776
+  },
+  {
+    "tipo": "reel-print",
+    "n": 0,
+    "data": "2026-10-13",
+    "metricoolId": 393724813
+  },
+  {
+    "tipo": "reel-print",
+    "n": 1,
+    "data": "2026-10-15",
+    "metricoolId": 393724846
+  },
+  {
+    "tipo": "reel-print",
+    "n": 2,
+    "data": "2026-10-17",
+    "metricoolId": 393724873
   }
 ]
