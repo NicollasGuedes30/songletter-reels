@@ -129,5 +129,29 @@
     "hora": "15:00",
     "arquivo": "imagens/2026-10-13-story-chamada/01.jpg",
     "metricoolId": 394802071
+  },
+  {
+    "tipo": "story-verso",
+    "slug": "9xxs3npk",
+    "data": "2026-10-14",
+    "hora": "09:00",
+    "arquivo": "imagens/2026-10-14-story-verso/01.jpg",
+    "metricoolId": 395737978
+  },
+  {
+    "tipo": "carrossel-pauta",
+    "pauta": 1,
+    "data": "2026-10-14",
+    "hora": "12:30",
+    "arquivo": "imagens/2026-10-14-carrossel-pauta/",
+    "metricoolId": 395738028
+  },
+  {
+    "tipo": "story-chamada",
+    "n": 2,
+    "data": "2026-10-14",
+    "hora": "15:00",
+    "arquivo": "imagens/2026-10-14-story-chamada/01.jpg",
+    "metricoolId": 395738072
   }
 ]
