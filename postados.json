@@ -205,5 +205,41 @@
     "hora": "15:00",
     "arquivo": "imagens/2026-10-19-story-chamada/01.jpg",
     "metricoolId": 399860424
+  },
+  {
+    "tipo": "story-verso",
+    "slug": "fdupzsvj",
+    "data": "2026-10-20",
+    "hora": "09:00",
+    "arquivo": "imagens/2026-10-20-story-verso/01.jpg",
+    "metricoolId": 400941133
+  },
+  {
+    "tipo": "carrossel-cartas",
+    "slugs": [
+      "fdupzsvj",
+      "iaau876v"
+    ],
+    "data": "2026-10-20",
+    "hora": "12:30",
+    "arquivo": "imagens/2026-10-20-carrossel-cartas/",
+    "metricoolId": 400941181
+  },
+  {
+    "tipo": "story-chamada",
+    "n": 1,
+    "data": "2026-10-20",
+    "hora": "15:00",
+    "arquivo": "imagens/2026-10-20-story-chamada/01.jpg",
+    "metricoolId": 400941230
+  },
+  {
+    "tipo": "reel-album",
+    "slug": "iaau876v",
+    "para": "Giulia",
+    "data": "2026-10-20",
+    "hora": "17:00",
+    "arquivo": "videos/2026-10-20-album-iaau876v.mp4",
+    "metricoolId": 400949693
   }
 ]
