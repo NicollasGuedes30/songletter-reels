@@ -274,5 +274,32 @@
     "hora": "17:00",
     "arquivo": "videos/2026-10-21-album-fdupzsvj.mp4",
     "metricoolId": 401997828
+  },
+  {
+    "tipo": "story-verso",
+    "slug": "iaau876v",
+    "data": "2026-10-22",
+    "hora": "09:00",
+    "arquivo": "imagens/2026-10-22-story-verso/01.jpg",
+    "metricoolId": 403001304
+  },
+  {
+    "tipo": "carrossel-cartas",
+    "slugs": [
+      "fdupzsvj",
+      "iaau876v"
+    ],
+    "data": "2026-10-22",
+    "hora": "12:30",
+    "arquivo": "imagens/2026-10-22-carrossel-cartas/",
+    "metricoolId": 403001375
+  },
+  {
+    "tipo": "story-chamada",
+    "n": 3,
+    "data": "2026-10-22",
+    "hora": "15:00",
+    "arquivo": "imagens/2026-10-22-story-chamada/01.jpg",
+    "metricoolId": 403001407
   }
 ]
