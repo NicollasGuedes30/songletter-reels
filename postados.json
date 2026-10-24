@@ -325,5 +325,32 @@
     "hora": "15:00",
     "arquivo": "imagens/2026-10-23-story-chamada/01.jpg",
     "metricoolId": 404014804
+  },
+  {
+    "tipo": "story-verso",
+    "slug": "fdupzsvj",
+    "data": "2026-10-24",
+    "hora": "09:00",
+    "arquivo": "imagens/2026-10-24-story-verso/01.jpg",
+    "metricoolId": 404901567
+  },
+  {
+    "tipo": "carrossel-cartas",
+    "slugs": [
+      "fdupzsvj",
+      "iaau876v"
+    ],
+    "data": "2026-10-24",
+    "hora": "12:30",
+    "arquivo": "imagens/2026-10-24-carrossel-cartas/",
+    "metricoolId": 404901577
+  },
+  {
+    "tipo": "story-chamada",
+    "n": 1,
+    "data": "2026-10-24",
+    "hora": "15:00",
+    "arquivo": "imagens/2026-10-24-story-chamada/01.jpg",
+    "metricoolId": 404901586
   }
 ]
