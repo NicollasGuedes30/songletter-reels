@@ -352,5 +352,30 @@
     "hora": "15:00",
     "arquivo": "imagens/2026-10-24-story-chamada/01.jpg",
     "metricoolId": 404901586
+  },
+  {
+    "tipo": "story-verso",
+    "slug": "fdupzsvj",
+    "data": "2026-10-25",
+    "hora": "09:00",
+    "arquivo": "imagens/2026-10-25-story-verso/01.jpg",
+    "metricoolId": 405578335
+  },
+  {
+    "tipo": "reel-pov",
+    "slug": "iaau876v",
+    "para": "Giulia",
+    "data": "2026-10-25",
+    "hora": "12:30",
+    "arquivo": "videos/2026-10-25-pov-iaau876v.mp4",
+    "metricoolId": 405578349
+  },
+  {
+    "tipo": "story-chamada",
+    "n": 2,
+    "data": "2026-10-25",
+    "hora": "15:00",
+    "arquivo": "imagens/2026-10-25-story-chamada/01.jpg",
+    "metricoolId": 405578339
   }
 ]
