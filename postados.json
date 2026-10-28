@@ -425,5 +425,36 @@
     "hora": "15:00",
     "arquivo": "imagens/2026-10-27-story-chamada/01.jpg",
     "metricoolId": 407648448
+  },
+  {
+    "tipo": "story-verso",
+    "slug": "fdupzsvj",
+    "data": "2026-10-28",
+    "hora": "09:00",
+    "arquivo": "imagens/2026-10-28-story-verso/01.jpg",
+    "metricoolId": 408771228
+  },
+  {
+    "tipo": "carrossel-pauta",
+    "pauta": 1,
+    "data": "2026-10-28",
+    "hora": "12:30",
+    "arquivo": "imagens/2026-10-28-carrossel-pauta/",
+    "metricoolId": 408771242
+  },
+  {
+    "tipo": "story-chamada",
+    "n": 1,
+    "data": "2026-10-28",
+    "hora": "15:00",
+    "arquivo": "imagens/2026-10-28-story-chamada/01.jpg",
+    "metricoolId": 408771257
+  },
+  {
+    "tipo": "reel-quiz",
+    "arquivo": "evergreen-quiz",
+    "data": "2026-10-28",
+    "hora": "17:00",
+    "metricoolId": 408771280
   }
 ]
