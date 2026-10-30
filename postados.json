@@ -488,5 +488,29 @@
     "data": "2026-10-29",
     "hora": "17:00",
     "metricoolId": 409899574
+  },
+  {
+    "tipo": "story-verso",
+    "slug": "fdupzsvj",
+    "data": "2026-10-30",
+    "hora": "09:00",
+    "arquivo": "imagens/2026-10-30-story-verso/01.jpg",
+    "metricoolId": 411030704
+  },
+  {
+    "tipo": "carrossel-pauta",
+    "pauta": 3,
+    "data": "2026-10-30",
+    "hora": "12:30",
+    "arquivo": "imagens/2026-10-30-carrossel-pauta/",
+    "metricoolId": 411030725
+  },
+  {
+    "tipo": "story-chamada",
+    "n": 3,
+    "data": "2026-10-30",
+    "hora": "15:00",
+    "arquivo": "imagens/2026-10-30-story-chamada/01.jpg",
+    "metricoolId": 411030739
   }
 ]
