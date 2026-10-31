@@ -512,5 +512,37 @@
     "hora": "15:00",
     "arquivo": "imagens/2026-10-30-story-chamada/01.jpg",
     "metricoolId": 411030739
+  },
+  {
+    "tipo": "story-verso",
+    "slug": "fdupzsvj",
+    "data": "2026-10-31",
+    "hora": "09:00",
+    "arquivo": "imagens/2026-10-31-story-verso/01.jpg",
+    "metricoolId": 412049070
+  },
+  {
+    "tipo": "carrossel-pauta",
+    "pauta": 4,
+    "data": "2026-10-31",
+    "hora": "12:30",
+    "arquivo": "imagens/2026-10-31-carrossel-pauta/",
+    "metricoolId": 412049081
+  },
+  {
+    "tipo": "story-chamada",
+    "n": 0,
+    "data": "2026-10-31",
+    "hora": "15:00",
+    "arquivo": "imagens/2026-10-31-story-chamada/01.jpg",
+    "metricoolId": 412049093
+  },
+  {
+    "tipo": "reel-print",
+    "n": 2,
+    "arquivo": "videos/evergreen-reacao-2.mp4",
+    "data": "2026-10-31",
+    "hora": "17:00",
+    "metricoolId": 412049101
   }
 ]
