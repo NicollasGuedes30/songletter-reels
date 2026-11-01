@@ -544,5 +544,30 @@
     "data": "2026-10-31",
     "hora": "17:00",
     "metricoolId": 412049101
+  },
+  {
+    "tipo": "story-verso",
+    "slug": "fdupzsvj",
+    "data": "2026-11-01",
+    "hora": "09:00",
+    "arquivo": "imagens/2026-11-01-story-verso/01.jpg",
+    "metricoolId": 412805389
+  },
+  {
+    "tipo": "reel-pov",
+    "slug": "fdupzsvj",
+    "para": "Carlos",
+    "data": "2026-11-01",
+    "hora": "12:30",
+    "arquivo": "videos/2026-11-01-pov-fdupzsvj.mp4",
+    "metricoolId": 412805415
+  },
+  {
+    "tipo": "story-chamada",
+    "n": 1,
+    "data": "2026-11-01",
+    "hora": "15:00",
+    "arquivo": "imagens/2026-11-01-story-chamada/01.jpg",
+    "metricoolId": 412805404
   }
 ]
