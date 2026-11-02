@@ -585,5 +585,13 @@
     "hora": "15:00",
     "arquivo": "imagens/2026-11-02-story-chamada/01.jpg",
     "metricoolId": 413779203
+  },
+  {
+    "tipo": "reel-print",
+    "n": 0,
+    "arquivo": "videos/evergreen-reacao-0.mp4",
+    "data": "2026-11-02",
+    "hora": "17:00",
+    "metricoolId": 414359042
   }
 ]
