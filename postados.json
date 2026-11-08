@@ -657,5 +657,22 @@
     "hora": "15:00",
     "arquivo": "imagens/2026-11-06-story-chamada/01.jpg",
     "metricoolId": 418745065
+  },
+  {
+    "tipo": "carrossel-pauta",
+    "pauta": 4,
+    "data": "2026-11-08",
+    "hora": "12:30",
+    "arquivo": "imagens/2026-11-08-carrossel-pauta/",
+    "metricoolId": 420623275,
+    "obs": "fallback do POV de domingo: banco do Lovable inacessível"
+  },
+  {
+    "tipo": "story-chamada",
+    "n": 3,
+    "data": "2026-11-08",
+    "hora": "15:00",
+    "arquivo": "imagens/2026-11-08-story-chamada/01.jpg",
+    "metricoolId": 420623298
   }
 ]
