@@ -740,5 +740,31 @@
     "hora": "15:00",
     "arquivo": "imagens/2026-11-13-story-chamada/01.jpg",
     "metricoolId": 426768821
+  },
+  {
+    "tipo": "carrossel-pauta",
+    "pauta": 2,
+    "data": "2026-11-14",
+    "hora": "12:30",
+    "arquivo": "imagens/2026-11-14-carrossel-pauta/",
+    "metricoolId": 427889238,
+    "obs": "fallback do carrossel-cartas de sábado: banco do Lovable inacessível"
+  },
+  {
+    "tipo": "story-chamada",
+    "n": 3,
+    "data": "2026-11-14",
+    "hora": "15:00",
+    "arquivo": "imagens/2026-11-14-story-chamada/01.jpg",
+    "metricoolId": 427889249
+  },
+  {
+    "tipo": "reel-print",
+    "n": 2,
+    "arquivo": "videos/evergreen-reacao-2.mp4",
+    "data": "2026-11-14",
+    "hora": "17:00",
+    "metricoolId": 427889262,
+    "obs": "reel-album sem cartas: banco do Lovable inacessível"
   }
 ]
