@@ -766,5 +766,22 @@
     "hora": "17:00",
     "metricoolId": 427889262,
     "obs": "reel-album sem cartas: banco do Lovable inacessível"
+  },
+  {
+    "tipo": "carrossel-pauta",
+    "pauta": 3,
+    "data": "2026-11-15",
+    "hora": "12:30",
+    "arquivo": "imagens/2026-11-15-carrossel-pauta/",
+    "metricoolId": 428756971,
+    "obs": "fallback do POV de domingo: banco do Lovable inacessível"
+  },
+  {
+    "tipo": "story-chamada",
+    "n": 0,
+    "data": "2026-11-15",
+    "hora": "15:00",
+    "arquivo": "imagens/2026-11-15-story-chamada/01.jpg",
+    "metricoolId": 428756977
   }
 ]
