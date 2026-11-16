@@ -783,5 +783,30 @@
     "hora": "15:00",
     "arquivo": "imagens/2026-11-15-story-chamada/01.jpg",
     "metricoolId": 428756977
+  },
+  {
+    "tipo": "carrossel-pauta",
+    "pauta": 4,
+    "data": "2026-11-16",
+    "hora": "12:30",
+    "arquivo": "imagens/2026-11-16-carrossel-pauta/",
+    "metricoolId": 429848656
+  },
+  {
+    "tipo": "story-chamada",
+    "n": 1,
+    "data": "2026-11-16",
+    "hora": "15:00",
+    "arquivo": "imagens/2026-11-16-story-chamada/01.jpg",
+    "metricoolId": 429848678
+  },
+  {
+    "tipo": "reel-print",
+    "n": 0,
+    "arquivo": "videos/evergreen-reacao-0.mp4",
+    "data": "2026-11-16",
+    "hora": "17:00",
+    "metricoolId": 429848709,
+    "obs": "reel-album sem cartas: banco do Lovable inacessível"
   }
 ]
