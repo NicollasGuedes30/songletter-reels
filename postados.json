@@ -874,5 +874,22 @@
     "hora": "15:00",
     "arquivo": "imagens/2026-11-20-story-chamada/01.jpg",
     "metricoolId": 435367438
+  },
+  {
+    "tipo": "carrossel-pauta",
+    "pauta": 3,
+    "data": "2026-11-21",
+    "hora": "12:30",
+    "arquivo": "imagens/2026-11-21-carrossel-pauta/",
+    "metricoolId": 436544862,
+    "obs": "fallback do carrossel-cartas de sábado: banco do Lovable inacessível"
+  },
+  {
+    "tipo": "story-chamada",
+    "n": 2,
+    "data": "2026-11-21",
+    "hora": "15:00",
+    "arquivo": "imagens/2026-11-21-story-chamada/01.jpg",
+    "metricoolId": 436544872
   }
 ]
