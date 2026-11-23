@@ -908,5 +908,21 @@
     "hora": "15:00",
     "arquivo": "imagens/2026-11-22-story-chamada/01.jpg",
     "metricoolId": 437432942
+  },
+  {
+    "tipo": "carrossel-pauta",
+    "pauta": 5,
+    "data": "2026-11-23",
+    "hora": "12:30",
+    "arquivo": "imagens/2026-11-23-carrossel-pauta/",
+    "metricoolId": 438561288
+  },
+  {
+    "tipo": "story-chamada",
+    "n": 0,
+    "data": "2026-11-23",
+    "hora": "15:00",
+    "arquivo": "imagens/2026-11-23-story-chamada/01.jpg",
+    "metricoolId": 438561318
   }
 ]
