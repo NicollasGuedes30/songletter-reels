@@ -991,5 +991,21 @@
     "hora": "17:00",
     "metricoolId": 442907241,
     "obs": "reel-album sem cartas: banco do Lovable inacessível"
+  },
+  {
+    "tipo": "carrossel-pauta",
+    "pauta": 3,
+    "data": "2026-11-27",
+    "hora": "12:30",
+    "arquivo": "imagens/2026-11-27-carrossel-pauta/",
+    "metricoolId": 444172027
+  },
+  {
+    "tipo": "story-chamada",
+    "n": 0,
+    "data": "2026-11-27",
+    "hora": "15:00",
+    "arquivo": "imagens/2026-11-27-story-chamada/01.jpg",
+    "metricoolId": 444172052
   }
 ]
